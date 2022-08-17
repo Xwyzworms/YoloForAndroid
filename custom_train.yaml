@@ -1,0 +1,7 @@
+path : ../ReadyToTrain
+train : images/train
+val : images/validation
+
+## Classes
+nc : 2
+names : ["cat", "dog"]
